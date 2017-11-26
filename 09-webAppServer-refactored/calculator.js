@@ -12,5 +12,5 @@ var calculator = {
 		return x / y;
 	}
 };
-
+console.log(calculator);
 module.exports = calculator;
